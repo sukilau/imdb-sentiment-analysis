@@ -2,10 +2,9 @@
  
 ## Task
 
-Date : [25000 labeled IMDB Reviews and 25000 unlabeled IMDB reviews](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
-Problem : Sentiment Analysis for IMDB reviews (positive and negative reviews)
-
-Use Natural Language Procesisng techniques, Random Forest and Word2Vec to conduct sentiment analysis for IMDB reviews.
+* Date : [25000 labeled IMDB Reviews and 25000 unlabeled IMDB reviews](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
+* Problem : Sentiment Analysis for IMDB reviews (positive and negative reviews)
+* Use Natural Language Procesisng techniques, Random Forest and Word2Vec to conduct sentiment analysis for IMDB reviews.
 
 ## What is in this repo
 
