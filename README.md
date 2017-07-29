@@ -19,4 +19,4 @@
 
 *imdb-model-comparison.py*
 
-* Comparison of model performance
+* Compare model performance of Random Forest, Linear SVM and Naive Bayes
